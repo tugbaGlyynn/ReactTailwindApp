@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.google.com/specimen/Sofia+Sans+Semi+Condensed');
+
+body {
+background-color: #000000;
+font-family: 'Lato','Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
